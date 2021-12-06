@@ -1,0 +1,4 @@
+ 
+# nicagemap module
+
+::: nicagemap.nicagemap
